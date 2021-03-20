@@ -1,0 +1,35 @@
+.MovieTile {
+  background-color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', serif;
+  color: white;
+  min-width: 220px;
+  max-width: 500px;
+  height: 100%;
+  padding: 1em;
+  margin: 25px;
+  align-items: center;
+}
+
+.Truncated {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height:100%;
+  padding: 0 20px 0 20px;
+}
+
+.MovieTitle {
+  font-weight: bold;
+  height:100px;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.Poster {
+  height: 515px;
+  width: 365px;
+  margin-left: 50px;
+}

@@ -1,0 +1,6 @@
+.Navbar {
+  height: 100px;
+  position: sticky;
+  top:0;
+  padding: 75px;
+}

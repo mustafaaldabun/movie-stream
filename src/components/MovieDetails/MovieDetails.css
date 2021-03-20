@@ -1,0 +1,52 @@
+.MoveDetailsPage {
+  color: #DDDDDD;
+  max-width: 100%;
+  min-height: 1100px;
+}
+
+.Page {
+  background-color: #49749f;
+}
+
+.MovieDetailsCard {
+  background-color: #49749f;
+  color: #fbfbfb;
+  font-size: 2em;
+  padding: 100px;
+  width: 100%;
+  display: inline-flex;
+}
+
+.MovieDetails {
+  padding: 0 50px 0 50px;
+}
+
+.Cast {
+  display: inline-flex;
+  margin: 0 5px 0 5px;
+}
+
+.Subheading {
+  display: inline-flex;
+}
+
+.Sub-headers {
+  margin: 0 5px 0 5px;
+  font-size: 1em;
+}
+
+.HomepageLink {
+  display: inline-flex;
+  color: white;
+  padding: 50px;
+  background-color: #001f3f;
+  width: fit-content;
+  font: 2em sans-serif;
+  margin-left: 100px;
+}
+
+
+.HomepageLink:hover {
+  background-color: #7FDBFF;
+  color: #001f3f;
+}
